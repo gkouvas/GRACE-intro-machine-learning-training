@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="360.61096mm"
+   height="294.05576mm"
+   viewBox="0 0 360.61096 294.05576"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
+   sodipodi:docname="cheatsheet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.0863777"
+     inkscape:cx="507.33863"
+     inkscape:cy="111.43716"
+     inkscape:window-width="2488"
+     inkscape:window-height="1376"
+     inkscape:window-x="3912"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <defs
+     id="defs1">
+    <rect
+       x="24.92358"
+       y="129.41089"
+       width="332.63394"
+       height="129.41089"
+       id="rect1" />
+    <radialGradient
+       r="53.700001"
+       cy="-75"
+       cx="1744.9"
+       gradientTransform="rotate(180,908.5,-11.5)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient869"
+       xlink:href="#a"
+       inkscape:collect="always" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(180,908.5,-11.5)"
+       r="53.700001"
+       cy="-75"
+       cx="1744.9"
+       id="a">
+      <stop
+         id="stop833"
+         stop-color="#f69679"
+         offset="0" />
+      <stop
+         id="stop835"
+         stop-color="#ed1c24"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       xlink:href="#a"
+       r="53.700001"
+       cy="-75"
+       cx="1744.9"
+       id="b" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(180,908.5,-11.5)"
+       r="53.700001"
+       cy="-75"
+       cx="1744.9"
+       id="radialGradient2">
+      <stop
+         id="stop1"
+         stop-color="#f69679"
+         offset="0" />
+      <stop
+         id="stop2"
+         stop-color="#ed1c24"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       xlink:href="#a"
+       r="53.700001"
+       cy="-75"
+       cx="1744.9"
+       id="c" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(180,908.5,-11.5)"
+       r="53.700001"
+       cy="-75"
+       cx="1744.9"
+       id="radialGradient4">
+      <stop
+         id="stop3"
+         stop-color="#f69679"
+         offset="0" />
+      <stop
+         id="stop4"
+         stop-color="#ed1c24"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       xlink:href="#a"
+       r="53.700001"
+       cy="-75"
+       cx="1744.9"
+       id="d" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(180,908.5,-11.5)"
+       r="53.700001"
+       cy="-75"
+       cx="1744.9"
+       id="radialGradient6">
+      <stop
+         id="stop5"
+         stop-color="#f69679"
+         offset="0" />
+      <stop
+         id="stop6"
+         stop-color="#ed1c24"
+         offset="1" />
+    </radialGradient>
+    <rect
+       x="24.92358"
+       y="129.41089"
+       width="332.63394"
+       height="129.41089"
+       id="rect1-5" />
+    <radialGradient
+       r="53.700001"
+       cy="-75"
+       cx="1744.9"
+       gradientTransform="rotate(180,908.5,-11.5)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient869-4"
+       xlink:href="#a-7"
+       inkscape:collect="always" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(180,908.5,-11.5)"
+       r="53.700001"
+       cy="-75"
+       cx="1744.9"
+       id="a-7">
+      <stop
+         id="stop833-7"
+         stop-color="#f69679"
+         offset="0" />
+      <stop
+         id="stop835-5"
+         stop-color="#ed1c24"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       xlink:href="#a-7"
+       r="53.700001"
+       cy="-75"
+       cx="1744.9"
+       id="b-4" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(180,908.5,-11.5)"
+       r="53.700001"
+       cy="-75"
+       cx="1744.9"
+       id="radialGradient2-8">
+      <stop
+         id="stop1-1"
+         stop-color="#f69679"
+         offset="0" />
+      <stop
+         id="stop2-2"
+         stop-color="#ed1c24"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       xlink:href="#a-7"
+       r="53.700001"
+       cy="-75"
+       cx="1744.9"
+       id="c-8" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(180,908.5,-11.5)"
+       r="53.700001"
+       cy="-75"
+       cx="1744.9"
+       id="radialGradient4-9">
+      <stop
+         id="stop3-3"
+         stop-color="#f69679"
+         offset="0" />
+      <stop
+         id="stop4-6"
+         stop-color="#ed1c24"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       xlink:href="#a-7"
+       r="53.700001"
+       cy="-75"
+       cx="1744.9"
+       id="d-8" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(180,908.5,-11.5)"
+       r="53.700001"
+       cy="-75"
+       cx="1744.9"
+       id="radialGradient6-0">
+      <stop
+         id="stop5-2"
+         stop-color="#f69679"
+         offset="0" />
+      <stop
+         id="stop6-1"
+         stop-color="#ed1c24"
+         offset="1" />
+    </radialGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.9175899,1.9182888)">
+    <g
+       id="g234">
+      <a
+         id="a212"
+         transform="translate(-62.06383,-158.09921)">
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="70.368439"
+           y="218.49774"
+           id="text18"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="70.368439"
+             y="218.49774"
+             id="tspan21">Useful resources:</tspan></text>
+      </a>
+      <a
+         id="a217"
+         xlink:href="https://pandas.pydata.org"
+         transform="translate(-63.597383,-161.54308)">
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="71.918526"
+           y="231.1815"
+           id="text18-4"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="71.918526"
+             y="231.1815"
+             id="tspan21-1"> - pandas</tspan></text>
+      </a>
+      <a
+         id="a216"
+         xlink:href="https://scikit-learn.org"
+         transform="translate(-62.679659,-159.52707)">
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="71.188904"
+           y="224.54659"
+           id="text18-5"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="71.188904"
+             y="224.54659"
+             id="tspan21-7"> - scikit-learn</tspan></text>
+      </a>
+      <a
+         id="a218"
+         xlink:href="https://seaborn.pydata.org/"
+         transform="translate(-63.616824,-161.80338)">
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="72.126068"
+           y="236.84619"
+           id="text18-3"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="72.126068"
+             y="236.84619"
+             id="tspan21-2"> - seaborn</tspan></text>
+      </a>
+      <g
+         id="g877"
+         transform="matrix(0.17806608,0,0,0.17806608,-75.315156,14.001981)">
+        <g
+           data-name="chosen finb"
+           id="g855"
+           transform="translate(465.26306,-35.584129)">
+          <path
+             d="M 14.3,0 A 14.3,14.3 0 0 0 0,14.3 v 124.3 a 14.3,14.3 0 0 0 14.3,14.3 H 184.7 A 14.3,14.3 0 0 0 199,138.6 V 14.3 A 14.3,14.3 0 0 0 184.7,0 Z"
+             fill="#ffffff"
+             id="path843" />
+          <path
+             d="m 62.6,51.7 a 9.4,9.4 0 0 1 7.1,-8.8 L 75.4,7.2 H 14.3 A 7.1,7.1 0 0 0 7.2,14.3 V 73.8 Z M 28,28.9 h 7.9 V 21 H 43 v 7.9 h 7.9 V 36 H 43 v 7.9 H 35.9 V 36 H 28 Z"
+             fill="url(#a)"
+             id="path845"
+             style="fill:url(#radialGradient869)" />
+          <path
+             d="m 164.4,113.7 a 4.2,4.2 0 0 0 2.4,-2.1 5.2,5.2 0 0 0 0.7,-2.5 4,4 0 0 0 -2.1,-3.9 16.5,16.5 0 0 0 -6.3,-1 h -6.3 v 10 h 7.1 a 16.4,16.4 0 0 0 4.5,-0.5 z"
+             fill="url(#b)"
+             id="path847"
+             style="fill:url(#b)" />
+          <path
+             d="m 167,121.1 c -1.4,-0.9 -3.4,-1.3 -6.1,-1.3 h -8.1 V 131 h 8.4 c 5.3,0 7.9,-1.9 7.9,-5.7 a 4.5,4.5 0 0 0 -2.1,-4.2 z"
+             fill="url(#c)"
+             id="path849"
+             style="fill:url(#c)" />
+          <path
+             d="M 184.7,7.2 H 83.3 l -5.9,36.9 a 9.5,9.5 0 0 1 4.3,8 v 0.5 l 44.9,23.2 a 9.4,9.4 0 0 1 5.9,-2.1 9.6,9.6 0 1 1 -9.6,9.6 V 82.7 L 78.1,59.5 a 9.5,9.5 0 0 1 -6,2.1 9.6,9.6 0 0 1 -6.7,-2.7 L 7.1,82.2 v 56.4 a 7.1,7.1 0 0 0 7.1,7.1 h 170.4 a 7.1,7.1 0 0 0 7.1,-7.1 V 14.3 a 7,7 0 0 0 -7,-7.1 z m -64.8,124.4 a 12,12 0 0 1 -5.3,4.3 20.3,20.3 0 0 1 -8.2,1.6 19,19 0 0 1 -9.4,-2.1 13,13 0 0 1 -4.3,-4.1 9.2,9.2 0 0 1 -1.6,-5 3.3,3.3 0 0 1 1,-2.4 3.3,3.3 0 0 1 2.5,-1 3.2,3.2 0 0 1 2.1,0.8 5.8,5.8 0 0 1 1.5,2.3 18,18 0 0 0 1.6,3.1 6.8,6.8 0 0 0 2.4,2 9.3,9.3 0 0 0 4.1,0.8 8.9,8.9 0 0 0 5.6,-1.6 5,5 0 0 0 2.2,-4 4.1,4.1 0 0 0 -1.2,-3.1 7.5,7.5 0 0 0 -3,-1.8 41.3,41.3 0 0 0 -4.9,-1.3 29.2,29.2 0 0 1 -6.9,-2.3 11,11 0 0 1 -4.4,-3.5 9.3,9.3 0 0 1 -1.6,-5.6 9.8,9.8 0 0 1 1.7,-5.6 11.5,11.5 0 0 1 5,-3.8 20.4,20.4 0 0 1 7.7,-1.3 18.3,18.3 0 0 1 6.1,0.9 14.5,14.5 0 0 1 4.3,2.3 10,10 0 0 1 2.5,3.1 7.5,7.5 0 0 1 0.8,3.1 3.5,3.5 0 0 1 -1,2.5 3.4,3.4 0 0 1 -2.5,1.1 2.4,2.4 0 0 1 -2,-0.7 7,7 0 0 1 -1.5,-2.2 9.1,9.1 0 0 0 -2.5,-3.4 7.6,7.6 0 0 0 -4.7,-1.2 8.3,8.3 0 0 0 -4.9,1.3 3.8,3.8 0 0 0 -1.8,3.2 3.4,3.4 0 0 0 0.6,2 4.7,4.7 0 0 0 1.7,1.4 10.2,10.2 0 0 0 2.2,0.9 l 3.7,1 a 60.7,60.7 0 0 1 5.9,1.7 18.9,18.9 0 0 1 4.5,2.2 10.2,10.2 0 0 1 2.9,3.3 10.4,10.4 0 0 1 1,4.9 12.5,12.5 0 0 1 -1.9,6.2 z m 16.5,1.1 a 5.3,5.3 0 0 1 -1.1,3.6 3.7,3.7 0 0 1 -2.9,1.2 3.6,3.6 0 0 1 -2.8,-1.2 5.2,5.2 0 0 1 -1.1,-3.5 V 102 a 4.9,4.9 0 0 1 1.1,-3.5 3.5,3.5 0 0 1 2.8,-1.2 3.9,3.9 0 0 1 2.9,1.2 5.3,5.3 0 0 1 1.1,3.6 z m 38.9,-1 a 9.8,9.8 0 0 1 -4.5,3.8 15.6,15.6 0 0 1 -4,1 41,41 0 0 1 -5.3,0.3 h -11.8 a 5,5 0 0 1 -3.6,-1.1 5.3,5.3 0 0 1 -1.1,-3.6 v -28.9 a 5.5,5.5 0 0 1 1.1,-3.7 5,5 0 0 1 3.6,-1.1 h 12.5 a 34.3,34.3 0 0 1 4.8,0.3 10.3,10.3 0 0 1 3.6,1.3 8,8 0 0 1 2.4,2.1 9,9 0 0 1 2.1,6 c 0,3.9 -1.9,6.7 -5.8,8.5 5.1,1.6 7.6,4.7 7.6,9.4 a 9.7,9.7 0 0 1 -1.6,5.7 z"
+             fill="url(#d)"
+             id="path851"
+             style="fill:url(#d)" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:6.16918px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;stroke-width:0.28918"
+         x="7.507555"
+         y="40.899887"
+         id="text218"><tspan
+           sodipodi:role="line"
+           id="tspan218"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.16918px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.28918"
+           x="7.507555"
+           y="40.899887">Introduction to Machine Learning</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.16918px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.28918"
+           x="7.507555"
+           y="48.709999"
+           id="tspan219">Cheatsheet</tspan></text>
+      <g
+         id="g232"
+         transform="translate(0,0.11633301)">
+        <g
+           id="g230">
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+             x="7.5003476"
+             y="135.04282"
+             id="text8"><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="135.04282"
+               id="tspan9">Preprocessing</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="140.8273"
+               id="tspan10">Log-transform</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="146.11896"
+               id="tspan40">With some data (eg, proteomics, RNAseq) log-transform can sometimes</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="151.41063"
+               id="tspan68">help stabilize the data's mean-variance relationship.</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="156.70229"
+               id="tspan41">dflog = np.log2( df )</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="161.99396"
+               id="tspan42" /><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="167.3533"
+               id="tspan12">Imputation</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="172.64496"
+               id="tspan43">Missing data (NA) can be blocking for many ML methods </tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="177.93663"
+               id="tspan45"># removing all samples containing NAs:</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="183.22829"
+               id="tspan46">dfnoNA = df.loc[ df.isna().sum(axis=1)&gt;0 , :  ] </tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="188.51994"
+               id="tspan44" /><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="193.81161"
+               id="tspan47"># mean imputation:</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="199.10327"
+               id="tspan51">from sklearn.preprocessing import Imputer</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="204.39493"
+               id="tspan52">imp = Imputer(missing_values=0, strategy='mean', axis=0)</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="209.6866"
+               id="tspan53">X_imputed = imp.fit_transform(X)</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="214.97826"
+               id="tspan49" /><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="220.3376"
+               id="tspan17">One-hot encoding</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="225.62927"
+               id="tspan54">categorical data can be blocking for many ML methods</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="230.92093"
+               id="tspan57">df_encoded = pd.get_dummies( df , drop_first = True )</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="236.2126"
+               id="tspan55" /><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="241.57195"
+               id="tspan13">Standardization/scaling</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="246.8636"
+               id="tspan59">Methods relying on distances (KNN, Kmeans,...) or building weighted </tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="252.15527"
+               id="tspan69">combination of features (linear models, PCA, ...)</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="257.44693"
+               id="tspan60">must have properly scaled features.</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="262.73859"
+               id="tspan61">from sklearn.preprocessing import StandardScaler</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="268.03024"
+               id="tspan63">scaler = StandardScaler()</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="273.32193"
+               id="tspan67">scaler.fit(X_train)</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="278.61359"
+               id="tspan64">X_train_scaled = scaler.transform(X_train)</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="283.97293"
+               id="tspan65" /><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="289.33228"
+               id="tspan62" /><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="294.69162"
+               id="tspan15" /><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="300.05096"
+               id="tspan16" /><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="305.41031"
+               id="tspan14" /><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="7.5003476"
+               y="310.70197"
+               id="tspan11" /></text>
+          <rect
+             style="fill:none;stroke:#ed1c24;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect219-69"
+             width="102.38623"
+             height="160.41739"
+             x="3.583631"
+             y="127.08967" />
+        </g>
+      </g>
+      <g
+         id="g231">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,0.90040578,53.572924)"
+           id="text1"
+           style="font-size:16px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1)"
+           x="-56.277344"
+           y="0"><tspan
+             x="133.44336"
+             y="143.82223"
+             id="tspan3"><tspan
+               style="font-weight:bold"
+               id="tspan1">Loading data</tspan><tspan
+               style="font-family:Arial;-inkscape-font-specification:Arial"
+               id="tspan2">
+</tspan></tspan><tspan
+             x="33.9038"
+             y="163.82224"
+             id="tspan5"><tspan
+               style="font-size:10.6667px"
+               id="tspan4">Your data needs to be tabular and stored as NumPy </tspan></tspan><tspan
+             x="56.380433"
+             y="183.82224"
+             id="tspan75"><tspan
+               style="font-size:10.6667px"
+               id="tspan7">arrays or </tspan><tspan
+               style="font-size:10.6667px"
+               id="tspan74">compatible format such as Pandas </tspan></tspan><tspan
+             x="159.13076"
+             y="203.82224"
+             id="tspan82"><tspan
+               style="font-size:10.6667px"
+               id="tspan79">DataFrame.</tspan><tspan
+               style="font-size:10.6667px"
+               id="tspan80">
+</tspan></tspan><tspan
+             x="130.23223"
+             y="223.82224"
+             id="tspan84"><tspan
+               style="font-size:10.6667px"
+               id="tspan83">import pandas as pd
+</tspan></tspan><tspan
+             x="91.700857"
+             y="243.82224"
+             id="tspan90"><tspan
+               style="font-size:10.6667px"
+               id="tspan85">df = pd.read_csv(&quot;my_data.csv&quot;)</tspan><tspan
+               style="text-align:start"
+               id="tspan88">
+</tspan></tspan><tspan
+             x="24.923828"
+             y="272.97852"
+             id="tspan96"><tspan
+               dx="0 6.4218955 6.4218955 6.421895 6.421896 6.421896 6.4218941 6.4218979 6.4218941"
+               style="font-size:10.6667px"
+               id="tspan95">df.head()</tspan></tspan></text>
+        <rect
+           style="fill:none;stroke:#ed1c24;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect219-6"
+           width="102.38844"
+           height="39.360123"
+           x="3.5824101"
+           y="83.845879" />
+      </g>
+      <g
+         id="g221"
+         transform="translate(-0.68249512,-13.880037)">
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.15;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="114.68958"
+           y="24.811287"
+           id="text8-6"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.15;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="24.811287"
+             id="tspan9-9">Unsupervised Learning</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.15;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="30.124447"
+             id="tspan12-7">PCA - NEEDS SCALING</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="34.992775"
+             id="tspan194">from sklearn.decomposition import PCA</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="39.861103"
+             id="tspan195">pca = PCA(n_components=10)</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="44.729435"
+             id="tspan196">X_pca = pca.fit_transform(X)</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="49.597763"
+             id="tspan197" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.15;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="54.466091"
+             id="tspan193">Kmeans - NEEDS SCALING</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="59.334423"
+             id="tspan22">from sklearn.cluster import Kmeans</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="64.202751"
+             id="tspan200">km = Kmeans(n_clusters = 5)</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="69.071083"
+             id="tspan201">km.fit(X)</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="73.939407"
+             id="tspan202">km.labels_</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="78.807739"
+             id="tspan199" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.15;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="83.676064"
+             id="tspan189">Hierarchial Clustering - NEEDS SCALING</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="88.544395"
+             id="tspan17-4">from sklearn.cluster import AgglomerativeClustering</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="93.412727"
+             id="tspan203">hs = AgglomerativeClustering(n_clusters = 5,</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="98.281052"
+             id="tspan207">linkage='ward')</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="103.14938"
+             id="tspan204">hs.fit(X)</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="108.01772"
+             id="tspan205">hs.labels_</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="112.88604"
+             id="tspan206" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.15;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="117.75437"
+             id="tspan190">Scoring clusters</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="122.6227"
+             id="tspan208">from sklearn.metrics import adjusted_rand_score, silhouette_score</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="127.49103"
+             id="tspan209">adjusted_rand_score(km.labels_ , hs.labels_)</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="132.35936"
+             id="tspan211">silhouette_score(X, km.labels_)</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.68958"
+             y="137.22769"
+             id="tspan210" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.15;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+             x="114.68958"
+             y="142.09602"
+             id="tspan11-7" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.15;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+             x="114.68958"
+             y="146.96434"
+             id="tspan191" /></text>
+        <rect
+           style="fill:none;stroke:#ed1c24;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect219-6-7"
+           width="118.37329"
+           height="120.62429"
+           x="110.65336"
+           y="16.461748" />
+      </g>
+      <g
+         id="g224"
+         transform="translate(-0.68249512,-7.5545883)">
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.15;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="114.71441"
+           y="143.22461"
+           id="text23"><tspan
+             sodipodi:role="line"
+             id="tspan23"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="143.22461">ML routine</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="148.51521"
+             id="tspan26">train/test split</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="153.38353"
+             id="tspan70"><tspan
+   style="font-weight:bold;line-height:1.15"
+   id="tspan86">train set:</tspan> find and train the best model</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="158.25186"
+             id="tspan27"><tspan
+   style="font-weight:bold;line-height:1.15"
+   id="tspan87">test set:</tspan> final evaluation of generalizing performance</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="163.12019"
+             id="tspan78">from sklearn.model_selection import train_test_split</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="167.98853"
+             id="tspan81">X_train, X_test, y_train, y_test = train_test_split(X,y)</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="172.92455"
+             id="tspan76" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="177.86055"
+             id="tspan77">K-fold cross-validation</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="182.72888"
+             id="tspan28">Useful to get an estimate of a model generalizability.</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="187.59721"
+             id="tspan91">Typically used to compare models or tune hyper-parameters</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="192.46555"
+             id="tspan92">from sklearn.cross_validation import cross_val_score</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="197.33388"
+             id="tspan93">print(cross_val_score(model1, X_train, y_train, cv=5))</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="202.20219"
+             id="tspan94">print(cross_val_score(model2, X_train, y_train, cv=5))</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="207.13821"
+             id="tspan89" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="212.07423"
+             id="tspan71">Pipeline</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="216.94257"
+             id="tspan109">from sklearn.pipeline import Pipeline</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="221.81088"
+             id="tspan112">ppl = Pipeline( [('imputer', Imputer(strategy='mean')),</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="226.67921"
+             id="tspan113">                 ('scaler', StandardScaler()),</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="231.54755"
+             id="tspan114">                 ('model', KNeighborsClassifier())] )</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="236.48357"
+             id="tspan110" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="241.41957"
+             id="tspan116"><tspan
+   id="tspan117"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">Hyper-parameter optimization </tspan>with a grid search algorithm</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="246.2879"
+             id="tspan97">from sklearn.grid_search import GridSearchCV</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="251.15623"
+             id="tspan98">params = {&quot;model__n_neighbors&quot;: np.arange(1,3),</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="256.02457"
+             id="tspan118">                 &quot;imputer__strategy&quot;: ['mean','median'] }</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="260.89288"
+             id="tspan100">grid = GridSearchCV(estimator=ppl,</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="265.76123"
+             id="tspan101">                                   param_grid=params,</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="270.62955"
+             id="tspan119">                                   cv = 8,</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="275.49789"
+             id="tspan120">                                   scoring = 'roc_auc')</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="280.36621"
+             id="tspan102">grid.fit(X_train, y_train)</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="285.23453"
+             id="tspan103">print(grid.best_score_)</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="290.10287"
+             id="tspan104">print(grid.best_params_)</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="114.71441"
+             y="294.97119"
+             id="tspan24" /></text>
+        <rect
+           style="fill:none;stroke:#ed1c24;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect219-6-7-5"
+           width="118.22077"
+           height="160.43149"
+           x="110.65336"
+           y="134.76059" />
+      </g>
+      <g
+         id="g229"
+         transform="translate(-0.96873474,-0.32918637)">
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.1;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="237.81778"
+           y="11.525352"
+           id="text29"><tspan
+             sodipodi:role="line"
+             id="tspan29"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="11.525352">Classification</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="16.569006"
+             id="tspan125"><tspan
+               id="tspan134"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">K-Nearest Neighbors - </tspan><tspan
+               style="font-weight:bold;line-height:1.1"
+               id="tspan126">NEEDS SCALING.</tspan></tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="21.225668"
+             id="tspan31">from sklearn.neighbors import KNeighborsClassifier</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="25.88233"
+             id="tspan124">model = KNeighborsClassifier(n_neighbors=5, weights='uniform')</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="30.60668"
+             id="tspan122" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="35.331028"
+             id="tspan127"><tspan
+   id="tspan135"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583">Logistic Regression - </tspan>NEEDS SCALING. INTERPRETABLE.</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="39.98769"
+             id="tspan129">from sklearn.linear_model import LogisticRegression </tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="44.644356"
+             id="tspan131">model = LogisticRegression( penalty = 'l2', C=1.0 )</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="49.301018"
+             id="tspan132" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="54.025364"
+             id="tspan32">Decision Tree<tspan
+   style="font-size:2.82222px;line-height:1.1"
+   id="tspan136"> - no scaling or imputation. INTERPRETABLE.</tspan></tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="58.68203"
+             id="tspan130">from sklearn.tree import DecisionTreeClassifier</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="63.338692"
+             id="tspan137">model = DecisionTreeClassifier(max_depth=None, </tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="67.995354"
+             id="tspan138">                               min_samples_split=2, </tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="72.652016"
+             id="tspan139">                               min_samples_leaf=1)</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="77.376366"
+             id="tspan140" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="82.100716"
+             id="tspan33">Random Forest <tspan
+   style="font-size:2.82222px;line-height:1.1"
+   id="tspan141">- no scaling or imputation. INTERPRETABLE.</tspan></tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="86.757378"
+             id="tspan145">from sklearn.ensemble import RandomForestClassifier</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="91.41404"
+             id="tspan146">model = RandomForestClassifier( n_estimator = 100,</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="96.070702"
+             id="tspan150">                                max_features='sqrt',</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="100.72736"
+             id="tspan149">                                max_depth=None, </tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="105.38403"
+             id="tspan147">                                min_samples_split=2, </tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="110.0407"
+             id="tspan148">                                min_samples_leaf=1)</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="114.76504"
+             id="tspan142" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="119.48939"
+             id="tspan34">Classification scores</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="124.14605"
+             id="tspan151">from sklearn.metrics import accuracy_score, f1_score, roc_auc_score</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="128.80272"
+             id="tspan153">y_pred = model.predict(X)</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="133.45938"
+             id="tspan157">y_pred_score = model.decision_function(X)</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="138.11604"
+             id="tspan156">accuracy_score(y, y_pred)       # &lt;- sensitive to imbalance</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="142.77271"
+             id="tspan154">f1_score(y, y_pred)             # &lt;- OK when there is imbalance</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             sodipodi:role="line"
+             id="tspan158"
+             x="237.81778"
+             y="147.42937">roc_auc_score(y, y_pred_score)  # &lt;- OK when there is imbalance</tspan></text>
+        <rect
+           style="fill:none;stroke:#ed1c24;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect219-6-7-5-3"
+           width="122.68407"
+           height="149.60518"
+           x="233.31288"
+           y="2.9108975" />
+      </g>
+      <g
+         id="g225"
+         transform="translate(-0.88616943,5.0586853)">
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.15;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="237.81778"
+           y="159.71413"
+           id="text35"><tspan
+             sodipodi:role="line"
+             id="tspan35"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="159.71413">Regression</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="165.00473"
+             id="tspan37">Linear Regression <tspan
+   style="font-size:2.82222px"
+   id="tspan165">- NEEDS SCALING</tspan></tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="169.87305"
+             id="tspan38">from sklearn.linear_model import SGDRegressor</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="174.74138"
+             id="tspan167">model = SGDRegressor( penalty='elasticnet', </tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="179.60971"
+             id="tspan170">                      alpha=0.0001, </tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="184.47804"
+             id="tspan169">                      l1_ratio=0.15)</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="189.41406"
+             id="tspan166" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="194.35007"
+             id="tspan159">Random Forest - no scaling or imputation.</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="199.2184"
+             id="tspan173">from sklearn.ensemble import RandomForestRegressor</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="204.08673"
+             id="tspan174">model = RandomForestRegressor( n_estimator = 100,</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="208.95506"
+             id="tspan175">                               max_features=1.0,</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="213.82339"
+             id="tspan176">                               max_depth=None, </tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="218.69171"
+             id="tspan177">                               min_samples_split=2, </tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="223.56004"
+             id="tspan178">                               min_samples_leaf=1)</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="228.49606"
+             id="tspan39" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="233.43208"
+             id="tspan161">Regression scores</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="238.3004"
+             id="tspan179">from sklearn.metrics import r2_score, mean_squared_error</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="243.16873"
+             id="tspan181">y_pred = model.predict(X)</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="248.03706"
+             id="tspan183">r2_score(y, y_pred)</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.15;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="252.9054"
+             id="tspan184">mean_squared_error = r2_score(y, y_pred)</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="257.8414"
+             id="tspan180" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="262.77744"
+             id="tspan164" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="267.71344"
+             id="tspan162" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="237.81778"
+             y="272.58176"
+             id="tspan163" /></text>
+        <rect
+           style="fill:none;stroke:#ed1c24;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect219-6-7-5-3-4"
+           width="122.8492"
+           height="106.9883"
+           x="233.23032"
+           y="151.1282" />
+      </g>
+      <g
+         id="g877-1"
+         transform="matrix(0.10590861,0,0,0.10590861,285.34217,273.59605)">
+        <g
+           data-name="chosen finb"
+           id="g855-1"
+           transform="translate(465.26306,-35.584129)">
+          <path
+             d="M 14.3,0 A 14.3,14.3 0 0 0 0,14.3 v 124.3 a 14.3,14.3 0 0 0 14.3,14.3 H 184.7 A 14.3,14.3 0 0 0 199,138.6 V 14.3 A 14.3,14.3 0 0 0 184.7,0 Z"
+             fill="#ffffff"
+             id="path843-0" />
+          <path
+             d="m 62.6,51.7 a 9.4,9.4 0 0 1 7.1,-8.8 L 75.4,7.2 H 14.3 A 7.1,7.1 0 0 0 7.2,14.3 V 73.8 Z M 28,28.9 h 7.9 V 21 H 43 v 7.9 h 7.9 V 36 H 43 v 7.9 H 35.9 V 36 H 28 Z"
+             fill="url(#a)"
+             id="path845-8"
+             style="fill:url(#radialGradient869-4)" />
+          <path
+             d="m 164.4,113.7 a 4.2,4.2 0 0 0 2.4,-2.1 5.2,5.2 0 0 0 0.7,-2.5 4,4 0 0 0 -2.1,-3.9 16.5,16.5 0 0 0 -6.3,-1 h -6.3 v 10 h 7.1 a 16.4,16.4 0 0 0 4.5,-0.5 z"
+             fill="url(#b)"
+             id="path847-5"
+             style="fill:url(#b-4)" />
+          <path
+             d="m 167,121.1 c -1.4,-0.9 -3.4,-1.3 -6.1,-1.3 h -8.1 V 131 h 8.4 c 5.3,0 7.9,-1.9 7.9,-5.7 a 4.5,4.5 0 0 0 -2.1,-4.2 z"
+             fill="url(#c)"
+             id="path849-0"
+             style="fill:url(#c-8)" />
+          <path
+             d="M 184.7,7.2 H 83.3 l -5.9,36.9 a 9.5,9.5 0 0 1 4.3,8 v 0.5 l 44.9,23.2 a 9.4,9.4 0 0 1 5.9,-2.1 9.6,9.6 0 1 1 -9.6,9.6 V 82.7 L 78.1,59.5 a 9.5,9.5 0 0 1 -6,2.1 9.6,9.6 0 0 1 -6.7,-2.7 L 7.1,82.2 v 56.4 a 7.1,7.1 0 0 0 7.1,7.1 h 170.4 a 7.1,7.1 0 0 0 7.1,-7.1 V 14.3 a 7,7 0 0 0 -7,-7.1 z m -64.8,124.4 a 12,12 0 0 1 -5.3,4.3 20.3,20.3 0 0 1 -8.2,1.6 19,19 0 0 1 -9.4,-2.1 13,13 0 0 1 -4.3,-4.1 9.2,9.2 0 0 1 -1.6,-5 3.3,3.3 0 0 1 1,-2.4 3.3,3.3 0 0 1 2.5,-1 3.2,3.2 0 0 1 2.1,0.8 5.8,5.8 0 0 1 1.5,2.3 18,18 0 0 0 1.6,3.1 6.8,6.8 0 0 0 2.4,2 9.3,9.3 0 0 0 4.1,0.8 8.9,8.9 0 0 0 5.6,-1.6 5,5 0 0 0 2.2,-4 4.1,4.1 0 0 0 -1.2,-3.1 7.5,7.5 0 0 0 -3,-1.8 41.3,41.3 0 0 0 -4.9,-1.3 29.2,29.2 0 0 1 -6.9,-2.3 11,11 0 0 1 -4.4,-3.5 9.3,9.3 0 0 1 -1.6,-5.6 9.8,9.8 0 0 1 1.7,-5.6 11.5,11.5 0 0 1 5,-3.8 20.4,20.4 0 0 1 7.7,-1.3 18.3,18.3 0 0 1 6.1,0.9 14.5,14.5 0 0 1 4.3,2.3 10,10 0 0 1 2.5,3.1 7.5,7.5 0 0 1 0.8,3.1 3.5,3.5 0 0 1 -1,2.5 3.4,3.4 0 0 1 -2.5,1.1 2.4,2.4 0 0 1 -2,-0.7 7,7 0 0 1 -1.5,-2.2 9.1,9.1 0 0 0 -2.5,-3.4 7.6,7.6 0 0 0 -4.7,-1.2 8.3,8.3 0 0 0 -4.9,1.3 3.8,3.8 0 0 0 -1.8,3.2 3.4,3.4 0 0 0 0.6,2 4.7,4.7 0 0 0 1.7,1.4 10.2,10.2 0 0 0 2.2,0.9 l 3.7,1 a 60.7,60.7 0 0 1 5.9,1.7 18.9,18.9 0 0 1 4.5,2.2 10.2,10.2 0 0 1 2.9,3.3 10.4,10.4 0 0 1 1,4.9 12.5,12.5 0 0 1 -1.9,6.2 z m 16.5,1.1 a 5.3,5.3 0 0 1 -1.1,3.6 3.7,3.7 0 0 1 -2.9,1.2 3.6,3.6 0 0 1 -2.8,-1.2 5.2,5.2 0 0 1 -1.1,-3.5 V 102 a 4.9,4.9 0 0 1 1.1,-3.5 3.5,3.5 0 0 1 2.8,-1.2 3.9,3.9 0 0 1 2.9,1.2 5.3,5.3 0 0 1 1.1,3.6 z m 38.9,-1 a 9.8,9.8 0 0 1 -4.5,3.8 15.6,15.6 0 0 1 -4,1 41,41 0 0 1 -5.3,0.3 h -11.8 a 5,5 0 0 1 -3.6,-1.1 5.3,5.3 0 0 1 -1.1,-3.6 v -28.9 a 5.5,5.5 0 0 1 1.1,-3.7 5,5 0 0 1 3.6,-1.1 h 12.5 a 34.3,34.3 0 0 1 4.8,0.3 10.3,10.3 0 0 1 3.6,1.3 8,8 0 0 1 2.4,2.1 9,9 0 0 1 2.1,6 c 0,3.9 -1.9,6.7 -5.8,8.5 5.1,1.6 7.6,4.7 7.6,9.4 a 9.7,9.7 0 0 1 -1.6,5.7 z"
+             fill="url(#d)"
+             id="path851-6"
+             style="fill:url(#d-8)" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:5.02646px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;stroke-width:0.314153"
+         x="233.28015"
+         y="270.17917"
+         id="text232"><tspan
+           sodipodi:role="line"
+           id="tspan232"
+           style="stroke-width:0.314153"
+           x="233.28015"
+           y="270.17917" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.314153"
+           x="233.28015"
+           y="276.5426"
+           id="tspan233">Made at the Swiss Institute of Bioinformatics</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.314153"
+           x="233.28015"
+           y="282.90607"
+           id="tspan234">Find out about us at www.sib.swiss</tspan></text>
+    </g>
+  </g>
+</svg>
