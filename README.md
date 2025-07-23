@@ -30,9 +30,10 @@ The course does not require any particular expertise with jupyter notebooks to b
  * [Chapter0 : python warmup](python_notebooks/Chapter_0_python_warmup.ipynb): provides a gentle warm-up to the basic usage of the libraries which are a pre-requisite for this course. You can use this notebook to assess your level before the course, or just as a way to get (re-)acquainted with these libraries.
  * [Chapter1 : Exploratory analysis](python_notebooks/Chapter_1_Exploratory_analysis.ipynb)
  * [Chapter2 : Unsupervised learning](python_notebooks/Chapter_2_unsupervised_learning.ipynb)
- * [Chapter3 : Machine Learning routine - distance-based model for classification](python_notebooks/Chapter_2_Machine_Learning_routine__distance_based_model_for_classification.ipynb)
- * [Chapter4 : Machine Learning based on decision trees for classification](python_notebooks/Chapter_3_Machine_Learning_based_on_decision_trees_for_classification.ipynb)
- * [Chapter5 : Machine Learning for regression](python_notebooks/Chapter_4_Machine_Learning_for_regression.ipynb)
+ * [Chapter3 : Supervised learning and Machine Learning routine ](python_notebooks/Chapter_3_supervised_learning_and_ML_pipeline.ipynb)
+ * [Chapter4 : Distance-based model for classification](python_notebooks/Chapter_4_distance_based_model_for_classification.ipynb)
+ * [Chapter5 : Decision trees for classification](python_notebooks/Chapter_5_Machine_Learning_based_on_decision_trees_for_classification.ipynb)
+ * [Chapter6 : Machine Learning for regression](python_notebooks/Chapter_6_Machine_Learning_for_regression.ipynb)
  * [Chapter Extra : Teasing Neural Network](python_notebooks/Chapter_Extra_Teasing_Neural_Network.ipynb)
 
 Solutions to each practical can be found in the [`solutions/`](python_notebooks/solutions/) folder and should be loadable directly in the jupyter notebook themselves.
