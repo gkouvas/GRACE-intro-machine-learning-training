@@ -1,40 +1,33 @@
 
 ## splitting the data into a train an test set
-X_train, X_test , y_train , y_test = train_test_split( dfTT , y , 
+X_train, X_test , y_train , y_test = train_test_split( X , y , 
                                                       test_size=0.25, 
                                                       random_state= 668141 )
 
 
 %%time
 from sklearn.linear_model import SGDRegressor
+from sklearn.model_selection import GridSearchCV
 from sklearn.pipeline import Pipeline
 from operator import itemgetter
-from sklearn.feature_selection import f_regression
-
-
 # Linear model fitted by minimizing a regularized empirical loss with SGD (Stochastic gradient Descent)
-lr_reg_P=SGDRegressor()
+
+pipeline_lr_reg_P=Pipeline([('poly',PolynomialFeatures()),
+                            ('scalar',StandardScaler()),
+                            ('model',SGDRegressor())])
 
 
-pipeline_lr_reg_P=Pipeline([('selectk',SelectKBest(f_regression)),
-                          ('poly',PolynomialFeatures()),
-                          ('scalar',StandardScaler()),
-                          ('model',lr_reg_P)])
-
-from sklearn.model_selection import GridSearchCV
 
 # define the hyperparameters you want to test with their range
-grid_values = {'selectk__k':np.arange(100,901,200),
-               'poly__degree': [1],#np.arange(1,4,1),
-               'model__penalty':['l1','l2'],
-               'model__alpha':np.logspace(-1,1,3)}
+grid_values = {'poly__degree': [1,2],
+               'poly__interaction_only': [True,False],
+               'model__l1_ratio': np.linspace(0.0,1.0,11),
+               'model__alpha':np.logspace(-1,2,10)}
 
 # Feed them to GridSearchCV with the right score (R squared)
 grid_lr_reg_P = GridSearchCV(pipeline_lr_reg_P, param_grid = grid_values, scoring='r2',n_jobs=-1)
 
 grid_lr_reg_P.fit(X_train, y_train)
-
-
 
 # get the best parameters
 print('Grid best parameter (max. r2): ', grid_lr_reg_P.best_params_)
@@ -50,7 +43,7 @@ pipeline_knn_P=Pipeline([('selectk',SelectKBest(f_regression,k=500)),
 from sklearn.model_selection import GridSearchCV
 
 # define the hyperparameters you want to test with their range
-grid_values = {'selectk__k':np.arange(50,500,50),
+grid_values = {'selectk__k':np.arange(1,200,25),
                'model__n_neighbors': np.arange(3,10),
                'model__weights': ['uniform','distance'],
                }
@@ -109,22 +102,4 @@ plt.scatter( grid_lr_reg_P.best_estimator_.predict(X_test) ,  y_test , c='xkcd:t
 plt.xlabel("predicted values")
 plt.ylabel("true values")
 plt.legend()
-
-
-# we already have access to the best estimator, let's grab specific steps:
-# grid_lr_reg_P.best_estimator_.steps 
-selec = grid_lr_reg_P.best_estimator_.steps[0][1]
-poly = grid_lr_reg_P.best_estimator_.steps[1][1]
-LR = grid_lr_reg_P.best_estimator_.steps[3][1]
-
-## get the name of features 
-dftt_col=list(dfTT.columns)
-fnames = [dftt_col[i] for i in range(len(dftt_col)) if selec.get_support()[i]==True]
-
-## sort them by importance
-sorted_list=sorted( zip( map( lambda x : pow2name(x,fnames) , poly.powers_) , LR.coef_ ) ,key= lambda x : abs(x[1]),reverse=True)
-print('top10 feature importances')
-for f,w in sorted_list[:10]:
-    print("{}\t{:.2f}".format(f,w))
-    
 
