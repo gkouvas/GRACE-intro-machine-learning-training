@@ -1,35 +1,16 @@
-grid_values = {'criterion': ['entropy','gini'],
-               'max_depth':[2,6,10,14],
-               'min_samples_split':np.arange(2,len(X_penguin_train)//4,5),
-              'min_samples_leaf':np.arange(1,len(X_penguin_train)//4,5)}
+from sklearn.tree import plot_tree
+fig,ax = plt.subplots(figsize=(25,10))
+plot_tree( grid_tree_roc_auc.best_estimator_ , 
+          feature_names=df_cancer.columns[:-1] , 
+          ax=ax , fontsize=12 , filled=True , impurity=False , precision=3)
+ax.set_title('best single decision tree')
 
 
-grid_tree_p_roc_auc = GridSearchCV(DecisionTreeClassifier(), 
-                             param_grid = grid_values, 
-                             scoring='roc_auc_ovr_weighted',
-                             n_jobs=-1)
-
-grid_tree_p_roc_auc.fit(X_penguin_train, y_penguin_train)
-
-y_decision_fn_scores_p_roc_auc=grid_tree_p_roc_auc.score(X_penguin_test,y_penguin_test)
-
-print(f'Grid best score (roc_auc_ovr_weighted): {grid_tree_p_roc_auc.best_score_:.3f}')
-print('Grid best parameter (max. roc_auc_ovr_weighted): ')
-for k,v in grid_tree_p_roc_auc.best_params_.items():
-    print('\t',k,'->',v)
-    
-from sklearn.metrics import accuracy_score, confusion_matrix
-
-y_test_score=grid_tree_p_roc_auc.score(X_penguin_test,y_penguin_test)
-
-print('Grid best parameter (max. accuracy) model on test: ', y_test_score)
-
-y_penguin_pred_test = grid_tree_p_roc_auc.predict(X_penguin_test)
-
-confusion_m_cancer = confusion_matrix(y_penguin_test, y_penguin_pred_test)
-
-plt.figure(figsize=(5.5,4))
-sns.heatmap(confusion_m_cancer, annot=True)
-plt.title('test {} : {:.3f}'.format( grid_tree_p_roc_auc.scoring , y_test_score ))
-plt.ylabel('True label')
-plt.xlabel('Predicted label')
+## We can see that the first node splits on mean_concave_point,
+## then on mean_perimeter and mean_texture
+## we also al see that below the 2nd layer the nodes don't make the decision change for a threshold of 0.05
+## this can still be useful, especially when we have metrics which accounts for multiple thresholds
+## such as ROC AUC
+##
+## but sometimes it can be interesting to "prune" the useless nodes. See:
+## https://scikit-learn.org/stable/auto_examples/tree/plot_cost_complexity_pruning.html#sphx-glr-auto-examples-tree-plot-cost-complexity-pruning-py
