@@ -13,7 +13,7 @@ grid_values = {'model__C': np.logspace(-5,2,200),
 # score(here accuracy) over which the decision should be taken
 grid_lr_acc = GridSearchCV(pipeline_lr, 
                            param_grid = grid_values, 
-                           scoring='balanced_accuracy',
+                           scoring='roc_auc',
                            cv=10, 
                            n_jobs=-1)
 
