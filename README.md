@@ -1,16 +1,15 @@
  
 
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10039454.svg)](https://doi.org/10.5281/zenodo.10039454)
-
 # Introduction to Machine Learning (with python)
 
-This repository regroups works on the "introduction to machine learning" course of the SIB.
-Its goal is to develop a somewhat language agnostic course, with a an R and a python implementation, however at the moment only the python implementation in done.
+This repository regroups works on the Introduction to Machine Learning (with Python) coure from the [GRACE training program](https://www.unibas.ch/en/University/Administration-Services/Vice-President-s-Office-for-Education/Academic-Programs/Graduate-Center/Transferable-Skills.html) of the university of Basel.
+
+
 
 ## pre-requisites
 
-The course is targeted to life scientists who are already familiar with the Python programming language and who have basic knowledge on statistics.
+The course is targeted to PhD students and postdoctoral researchers who are already familiar with the Python programming language and who have basic knowledge on statistics, and would like learn the basics of Machine Learning and how it can help teir research.
+
 
 In order to follow the course you need to have installed [python](https://www.python.org/) and [jupyter notebooks](https://www.jupyter.org/) (a web based notebook system for creating and sharing computational documents). 
 
@@ -55,7 +54,5 @@ Note also the `utils.py` and `utils2.py` files which contain many utilitary func
 
 ## course material citation
 
-Please cite as : 
-
-Mueller, M., & Duchemin, W. (2023, October 25). Introduction to Machine Learning - SIB training. Zenodo. https://doi.org/10.5281/zenodo.10039454
+> This course has been adapted from the ["introduction to machine learning" course of the SIB](https://github.com/sib-swiss/intro-machine-learning-training) : Mueller, M., & Duchemin, W. (2023, October 25). Introduction to Machine Learning - SIB training. Zenodo. https://doi.org/10.5281/zenodo.10039454
 
