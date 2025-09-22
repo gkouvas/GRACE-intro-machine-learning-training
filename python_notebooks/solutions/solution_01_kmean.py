@@ -43,7 +43,7 @@ for i, v in enumerate(feature_vectors): # enumerate over the rows of feature_vec
 
 ## 3. use t-SNE to get an embedding of the data in 2D and represent it.
 ##     **bonus :** plot the species names in the embedded space with `plt.text`
-
+from sklearn.manifold import TSNE
 tsne_exo_sample=TSNE(n_components=2,perplexity=20, init="pca", learning_rate='auto').fit(df_mam_IS)
 X_embedded_exo_sample = tsne_exo_sample.embedding_
 
@@ -60,11 +60,12 @@ plt.ylabel('Second Dimension')
 
 
 ## 4. perform a Kmean, or hierarchical clustering, or DBSCAN clustering on the PCA projected data. What is the best number of cluster according to the silhouette score?
+from sklearn.cluster import KMeans
 nr_clusters = np.arange(15)+2
 silhouettes = []
 
 for n in nr_clusters:
-    kmeans = cluster.KMeans(n)
+    kmeans = KMeans(n)
     kmeans.fit(x_pca)
     silhouettes.append(silhouette_score(x_pca,kmeans.labels_))
 
@@ -81,7 +82,7 @@ plt.title('k-means clustering',fontsize=20)
 
 
 ## 5. plot the t-SNE projected data colored according to the cluster they belong to.
-kmeans_mam = cluster.KMeans(bestK)
+kmeans_mam = KMeans(bestK)
 kmeans_mam.fit(x_pca)
 
 # reporting the number of observations for each clusters
