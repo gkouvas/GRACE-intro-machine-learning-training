@@ -27,7 +27,7 @@ The course is organized in several, numbered, jupyter notebooks, each correspond
 The course does not require any particular expertise with jupyter notebooks to be followed, but if it is the first time you encounter them we recommend this [gentle introduction](https://realpython.com/jupyter-notebook-introduction/).
 
  * [Chapter0 : python warmup](python_notebooks/Chapter_0_python_warmup.ipynb): provides a gentle warm-up to the basic usage of the libraries which are a pre-requisite for this course. You can use this notebook to assess your level before the course, or just as a way to get (re-)acquainted with these libraries.
- * [Chapter1 : Exploratory analysis](python_notebooks/Chapter_1_Exploratory_Data_analysis.ipynb)
+ * [Chapter1 : Exploratory Dana_Analysis](python_notebooks/Chapter_1_Exploratory_Data_Analysis.ipynb)
  * [Chapter2 : Unsupervised learning](python_notebooks/Chapter_2_unsupervised_learning.ipynb)
  * [Chapter3 : Supervised learning and Machine Learning routine ](python_notebooks/Chapter_3_supervised_learning_and_ML_pipeline.ipynb)
  * [Chapter4 : Distance-based model for classification](python_notebooks/Chapter_4_distance_based_model_for_classification.ipynb)
